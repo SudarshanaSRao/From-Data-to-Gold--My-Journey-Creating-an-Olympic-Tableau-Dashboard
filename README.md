@@ -1,6 +1,8 @@
 # From-Data-to-Gold--My-Journey-Creating-an-Olympic-Tableau-Dashboard
 Developed an interactive dashboard using Tableau with Kaggle’s Olympic dataset.
 
+## [Medium blog post](https://medium.com/@sudarshanasrao/olympics-tableau-3a79b7b49619)
+
 <div class='tableauPlaceholder' id='viz1723672153855' style='position: relative'>
 <noscript> 
 <a href='#'> <img alt='Dashboard 1' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ol&#47;Olympics_17236708826520&#47;Dashboard1&#47;1_rss.png' style='border: none' /> </a>
