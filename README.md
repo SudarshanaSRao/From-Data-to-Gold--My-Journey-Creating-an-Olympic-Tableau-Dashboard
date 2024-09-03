@@ -1,5 +1,4 @@
 # From-Data-to-Gold--My-Journey-Creating-an-Olympic-Tableau-Dashboard
-Developed an interactive dashboard using Tableau with Kaggle’s Olympic dataset.
 
 ## [Medium blog post](https://medium.com/@sudarshanasrao/olympics-tableau-3a79b7b49619)
 
